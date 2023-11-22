@@ -1,0 +1,12 @@
+https://example.com
+https://uat-bstieapplication.oss.net.bd
+https://uat-bstieapplication.oss.net.bd/cgi-bin
+https://uat-bstieapplication.oss.net.bd/login
+https://uat-bstieapplication.oss.net.bd/logout
+https://uat-bstieapplication.oss.net.bd/settings
+https://uat-bstieapplication.oss.net.bd/signature
+https://uat-bstieapplication.oss.net.bd/assets/cgi-bin
+https://uat-bstieapplication.oss.net.bd/cron/cgi-bin
+https://uat-bstieapplication.oss.net.bd/js/cgi-bin
+https://uat-bstieapplication.oss.net.bd/upload/cgi-bin
+https://example.com

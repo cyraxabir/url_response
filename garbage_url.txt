@@ -1,0 +1,102 @@
+---- Scanning URL: https://example.com/ ----
+==> DIRECTORY: https://example.com/assets/
++ https://example.com/cgi-bin/ (CODE:403|SIZE:210)
+==> DIRECTORY: https://example.com/cron/
+==> DIRECTORY: https://example.com/css/
+==> DIRECTORY: https://example.com/js/
++ https://example.com/login (CODE:200|SIZE:50216)
++ https://example.com/logout (CODE:302|SIZE:402)
++ https://example.com/settings (CODE:302|SIZE:426)
++ https://example.com/signature (CODE:200|SIZE:503158)
+==> DIRECTORY: https://example.com/upload/
+==> DIRECTORY: https://example.com/uploads/
+
+---- Entering directory: https://example.com/assets/ ----
+==> DIRECTORY: https://example.com/assets/assets/
++ https://example.com/assets/cgi-bin/ (CODE:301|SIZE:265)
+==> DIRECTORY: https://example.com/assets/images/
+==> DIRECTORY: https://example.com/assets/modules/
+==> DIRECTORY: https://example.com/assets/scripts/
+==> DIRECTORY: https://example.com/assets/stylesheets/
+
+---- Entering directory: https://example.com/cron/ ----
++ https://example.com/cron/cgi-bin/ (CODE:301|SIZE:263)
+
+---- Entering directory: https://example.com/css/ ----
++ https://example.com/css/cgi-bin/ (CODE:301|SIZE:262)
+
+---- Entering directory: https://example.com/js/ ----
++ https://example.com/js/cgi-bin/ (CODE:301|SIZE:261)
+
+---- Entering directory: https://example.com/upload/ ----
+==> DIRECTORY: https://example.com/upload/certificate/
++ https://example.com/upload/cgi-bin/ (CODE:301|SIZE:265)
+
+---- Entering directory: https://example.com/uploads/ ----
+==> DIRECTORY: https://example.com/uploads/certificate/
++ https://example.com/uploads/cgi-bin/ (CODE:301|SIZE:266)
+==> DIRECTORY: https://example.com/uploads/client/
+==> DIRECTORY: https://example.com/uploads/report/
+==> DIRECTORY: https://example.com/uploads/signature/
+==> DIRECTORY: https://example.com/uploads/users/
+
+---- Entering directory: https://example.com/assets/assets/ ----
++ https://example.com/assets/assets/cgi-bin/ (CODE:301|SIZE:272)
+
+---- Entering directory: https://example.com/assets/images/ ----
++ https://example.com/assets/images/cgi-bin/ (CODE:301|SIZE:272)
+==> DIRECTORY: https://example.com/assets/images/home/
+
+---- Entering directory: https://example.com/assets/modules/ ----
++ https://example.com/assets/modules/cgi-bin/ (CODE:301|SIZE:273)
+
+---- Entering directory: https://example.com/assets/scripts/ ----
++ https://example.com/assets/scripts/cgi-bin/ (CODE:301|SIZE:273)
+==> DIRECTORY: https://example.com/assets/scripts/js/
+
+---- Entering directory: https://example.com/assets/stylesheets/ ----
++ https://example.com/assets/stylesheets/cgi-bin/ (CODE:301|SIZE:277)
+==> DIRECTORY: https://example.com/assets/stylesheets/css/
+==> DIRECTORY: https://example.com/assets/stylesheets/images/
+
+---- Entering directory: https://example.com/upload/certificate/ ----
++ https://example.com/upload/certificate/cgi-bin/ (CODE:301|SIZE:277)
+
+---- Entering directory: https://example.com/uploads/certificate/ ----
++ https://example.com/uploads/certificate/cgi-bin/ (CODE:301|SIZE:278)
+
+---- Entering directory: https://example.com/uploads/client/ ----
++ https://example.com/uploads/client/cgi-bin/ (CODE:301|SIZE:273)
+
+---- Entering directory: https://example.com/uploads/report/ ----
++ https://example.com/uploads/report/cgi-bin/ (CODE:301|SIZE:273)
+
+---- Entering directory: https://example.com/uploads/signature/ ----
++ https://example.com/uploads/signature/cgi-bin/ (CODE:301|SIZE:276)
+
+---- Entering directory: https://example.com/uploads/users/ ----
++ https://example.com/uploads/users/cgi-bin/ (CODE:301|SIZE:272)
+==> DIRECTORY: https://example.com/uploads/users/signature/
+==> DIRECTORY: https://example.com/uploads/users/upload/
+
+---- Entering directory: https://example.com/assets/images/home/ ----
++ https://example.com/assets/images/home/cgi-bin/ (CODE:301|SIZE:277)
+
+---- Entering directory: https://example.com/assets/scripts/js/ ----
++ https://example.com/assets/scripts/js/cgi-bin/ (CODE:301|SIZE:276)
+==> DIRECTORY: https://example.com/assets/scripts/js/pages/
+
+---- Entering directory: https://example.com/assets/stylesheets/css/ ----
++ https://example.com/assets/stylesheets/css/cgi-bin/ (CODE:301|SIZE:281)
+
+---- Entering directory: https://example.com/assets/stylesheets/images/ ----
++ https://example.com/assets/stylesheets/images/cgi-bin/ (CODE:301|SIZE:284)
+
+---- Entering directory: https://example.com/uploads/users/signature/ ----
++ https://example.com/uploads/users/signature/cgi-bin/ (CODE:301|SIZE:282)
+
+---- Entering directory: https://example.com/uploads/users/upload/ ----
++ https://example.com/uploads/users/upload/cgi-bin/ (CODE:301|SIZE:279)
+
+---- Entering directory: https://example.com/assets/scripts/js/pages/ ----
++ https://example.com/assets/scripts/js/pages/cgi-bin/
