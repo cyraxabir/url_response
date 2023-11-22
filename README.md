@@ -1,2 +1,2 @@
 # url_response
-exploit all target dirs &amp; get dir with response code 200
+To make it easy for you to auto-capture the availability response from the dir brut forced urls.
